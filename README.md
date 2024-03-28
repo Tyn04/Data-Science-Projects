@@ -20,10 +20,30 @@ Thee objective is to predict survival and investigate the influence of gender an
 * Preprocessed the data further to prepare it for modeling.
 * Trained a logistic regression model, a suitable algorithm for binary classification tasks like survival prediction.
 * Used the logistic regression model to predict survival rates based on passenger class and gender.
- 
+
+2. [Supervised ML algorithms Classification - Social Network Ad](https://github.com/Tyn04/Data-Science-Projects/blob/main/Projects%20-%20Supervised_ML_algorithms_Classification-Social_Network_Ads.ipynb)
+
+#### Objective Statement: 
+The objective is to predict influence of gender, age and estimated Salary on purchase in a social media ad campgn
+
+#### Data Preprocessing and Analysis:
+* Imported necessary Python libraries for data preprocessing and analysis.
+* Loaded the dataset and previewed its contents.
+* Preprocessed the data and invoked on gender to transform 1 to male and 0 to female
+* performed exploratory analysis.
+* Engineered the age feature by categorizing the age according to generation, IGen, Millenials, GenX abd Baby Boomers
+* Then Engineered the Income feature by categorizing to Low, Medium and High
+* Visualize no. of users baseed on gender category, another visual based on income category
+* Also visualized based on those that purchased and those that did not
+  
+#### Modeling and Prediction:
+* Preprocessed the data further to prepare it for modeling.
+* Trained a logistic regression model, a suitable algorithm for binary classification tasks like survival prediction.
+* Used the logistic regression model to predict survival rates based on passenger class and gender.
+   
 3. [Unsupervised ML clustering - Mall Customer dataset](https://github.com/Tyn04/Data-Science-Projects/blob/main/Project-Unsupervised%20ML%20clustering%20_Mall_Customer%20dataser.ipynb)
 
-4. [Supervised ML algorithms Classification - Social Network Ad](https://github.com/Tyn04/Data-Science-Projects/blob/main/Projects%20-%20Supervised_ML_algorithms_Classification-Social_Network_Ads.ipynb)
+
 
 [New York Yellow Taxi](https://github.com/Tyn04/Data-Science-Projects/blob/main/Project_New_York_Yellow_Cab.ipynb)
 
