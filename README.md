@@ -42,10 +42,24 @@ The objective is to predict the influence of gender, age, and estimated Salary o
 * Then predicted and evaluated the model performance 
 * Then I repeated the same process for the Engineered features 
    
-3. [Unsupervised ML clustering - Mall Customer dataset](https://github.com/Tyn04/Data-Science-Projects/blob/main/Project-Unsupervised%20ML%20clustering%20_Mall_Customer%20dataser.ipynb)
+3. [Unsupervised ML clustering - Mall Customer dataset](https://github.com/Tyn04/Data-Science-Projects/blob/main/Project%20-%20unsupervised%20ML%20clustering%20Mall%20Customer%20dataset.ipynb)
 
+#### Objective Statement: 
+The owner of a mall wants to understand the customers who can easily be targeted for new stock of goods so that the insight can be given to the marketing team to plan accordingly.
 
+#### Data Preprocessing and Analysis:
+* Imported necessary Python libraries for data preprocessing and analysis.
+* Loaded the dataset and previewed its contents.
+* Performed exploratory analysis.
+* Then performed a descriptive statistical analysis
+* Visualized
+  
+#### Modeling and Prediction:
+* Imported K-means from ScikitLearn and Used the elbow method to find the optimal number of cluster
+* Fitted Naive Bayes algorithm to the non-engineered trained data
+* Then visualized the clusters 
 
+* ### Data Analysis and Visualization projects
 [New York Yellow Taxi](https://github.com/Tyn04/Data-Science-Projects/blob/main/Project_New_York_Yellow_Cab.ipynb)
 
 [Operations Performance Dashboard](https://github.com/Tyn04/Data-Science-Projects/blob/main/Operations%20Performance%20Dashboard%201-merged.pdf)
